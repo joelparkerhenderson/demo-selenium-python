@@ -3,7 +3,7 @@
 Demonstration of:
 
 * [Selenium](https://www.selenium.dev/) browser automation testing
-* [Python](https://en.wikipedia.org/wiki/Python_(programming_language) programming language
+* [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) programming language
 * [ChromeDriver](https://developer.chrome.com/docs/chromedriver) extends Webdriver by adding Chromium-specific capabilities
 
 Many more examples are here:
@@ -16,11 +16,13 @@ Many more examples are here:
 
 Install Python from <https://www.python.org/>
 
-Confirm:
+Run this to confirm your version:
 
 ```sh
 python -v
 ```
+
+Output should be at least:
 
 ```stdout
 Python 3.13.1
@@ -30,11 +32,13 @@ Python 3.13.1
 
 Install uv from <https://github.com/astral-sh/uv>
 
-Confirm:
+Run this to confirm your version:
 
 ```sh
 uv version
 ```
+
+Output should be at least:
 
 ```stdout
 uv 0.6.14
